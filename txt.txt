@@ -1,0 +1,16 @@
+self.addParameters(name="name1", 
+			value="value"
+			)
+self.addParameters(name="name2", 
+			value="value"
+			)
+self.addParameters(name="name3", 
+			value="value"
+			)
+self.addParameters(name="name4", 
+			value="value"
+			)
+self.addParameters(name="name5", 
+			value="value"
+			)
+		
