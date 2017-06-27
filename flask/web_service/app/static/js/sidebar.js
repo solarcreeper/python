@@ -1,7 +1,4 @@
 function setMenuBehavier() {
-    // $(".dropdown").click(function () {
-    //     $("#leftmenuOperate").find(".dropdown:not(.active)").find("ul").slideUp("fast");
-    // });
     $(".selectOne").click(function () {
         if ($(this).attr("status") != "selected") {
             $("#leftmenuOperate").find(".dropdown").removeClass("active");

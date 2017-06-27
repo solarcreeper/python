@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280206e6-5976-4112-8d55-784041c5b9f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask/web_service/app/static/js/sidebar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask/web_service/app/templates/allconfig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask/web_service/app/templates/basefile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask/web_service/app/templates/newconfig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask/web_service/app/templates/slaveFile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flask/web_service/app/templates/homepage.html" afterPath="$PROJECT_DIR$/flask/web_service/app/templates/homepage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flask/web_service/app/views.py" afterPath="$PROJECT_DIR$/flask/web_service/app/views.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/flask/web_service/app/templates/test1.html" afterPath="$PROJECT_DIR$/flask/web_service/app/templates/allfile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flask/web_service/app/static/js/sidebar.js" afterPath="$PROJECT_DIR$/flask/web_service/app/static/js/sidebar.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,8 +94,8 @@
       <file leaf-file-name="sidebar.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask/web_service/app/static/js/sidebar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="330">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -729,7 +722,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498318848906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homepage">
+      <created>1498575312574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1498575312574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1121,8 +1121,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/web_service/app/static/js/sidebar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="330">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding />
         </state>
       </provider>
